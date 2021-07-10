@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Knodel55
-- 👀 I’m interested in life, universe andeverything.
+- 👀 I’m interested in life, universe and everything.
 - 🌱 I’m currently learning to use GitHub.
 - 💞️ I’m looking to collaborate on teaching to program.
 - 📫 How to reach me: mail@gehirnthaler.net
